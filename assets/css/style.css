@@ -79,6 +79,8 @@
 }
 .position_rltv {
   position: relative;
+}
+.overflowhidden {
   overflow: hidden;
 }
 .show {
